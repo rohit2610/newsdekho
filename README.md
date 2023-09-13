@@ -4,7 +4,9 @@ News Dekho is a single-screen app for news.
 
 ## Preview
 
-![gif preview]
+![gif preview](https://github.com/rohit2610/videos/blob/master/news.gif)
+
+gif size is > 10mb, might take some time to load
 
 ## Prerequisites
 
